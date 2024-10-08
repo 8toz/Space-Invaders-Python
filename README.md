@@ -6,12 +6,6 @@ Welcome to the **Space Invaders** game! This is a Python implementation of the c
   <img src="https://github.com/user-attachments/assets/395ab5de-635d-4915-ac47-41fe567d2253" alt="game_preview">
 </div>
 
-## Table of Contents
-- [Installation](#installation)
-- [Running the Game](#running-the-game)
-- [Game Instructions](#have-fun!!)
-
-
 ## Installation
 
 To run this game, you need to have Python version 3.10.0 or higher installed.
