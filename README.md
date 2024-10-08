@@ -26,10 +26,10 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ````
 
-## Step 3: Running the game
+## Running the game
 ```bash
 python alien_invasion.py
 ````
 
-## Step 4: HAVE FUN!!
+## HAVE FUN!!
  Don't let the aliens reach <b>YOU</b>!!
